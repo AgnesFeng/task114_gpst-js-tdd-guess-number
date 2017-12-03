@@ -19,5 +19,9 @@
   "homepage": "https://school.thoughtworks.cn",
   "devDependencies": {
     "jasmine": "^2.6.0"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
   }
 }
